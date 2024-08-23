@@ -1,0 +1,15 @@
+﻿  Graph Coloring Solution.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4267: 'başlatılıyor': 'size_t' - '_Ty2' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Hp\OneDrive\Masaüstü\Algoritma Analizi ve Tasarım Ödevler\Graph Coloring Ödev\ALGORİTMA_ANALİZİ_GRAPH_COLORİNG_CODE\Graph Coloring Solution\Graph Coloring Solution.cpp(72,35): message : derlenen şablon işlevi 'std::pair<int,int>::pair<_Ty1&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Ty1=const int,
+              _Other1=const int &,
+              _Other2=unsigned __int64
+          ]
+C:\Users\Hp\OneDrive\Masaüstü\Algoritma Analizi ve Tasarım Ödevler\Graph Coloring Ödev\ALGORİTMA_ANALİZİ_GRAPH_COLORİNG_CODE\Graph Coloring Solution\Graph Coloring Solution.cpp(72,34): message : 'Graph::welshPowell' içinde ilk 'std::pair<int,int>::pair' başvurusuna bakın
+  Graph Coloring Solution.vcxproj -> C:\Users\Hp\OneDrive\Masaüstü\Algoritma Analizi ve Tasarım Ödevler\Graph Coloring Ödev\ALGORİTMA_ANALİZİ_GRAPH_COLORİNG_CODE\Graph Coloring Solution\x64\Debug\Graph Coloring Solution.exe
